@@ -1,0 +1,11 @@
+/Users/erikgrove/Desktop/RatedR/bin/Debug/netcoreapp2.2/RatedR.deps.json
+/Users/erikgrove/Desktop/RatedR/bin/Debug/netcoreapp2.2/RatedR.runtimeconfig.json
+/Users/erikgrove/Desktop/RatedR/bin/Debug/netcoreapp2.2/RatedR.runtimeconfig.dev.json
+/Users/erikgrove/Desktop/RatedR/bin/Debug/netcoreapp2.2/RatedR.dll
+/Users/erikgrove/Desktop/RatedR/bin/Debug/netcoreapp2.2/RatedR.pdb
+/Users/erikgrove/Desktop/RatedR/obj/Debug/netcoreapp2.2/RatedR.csprojAssemblyReference.cache
+/Users/erikgrove/Desktop/RatedR/obj/Debug/netcoreapp2.2/RatedR.csproj.CoreCompileInputs.cache
+/Users/erikgrove/Desktop/RatedR/obj/Debug/netcoreapp2.2/RatedR.AssemblyInfoInputs.cache
+/Users/erikgrove/Desktop/RatedR/obj/Debug/netcoreapp2.2/RatedR.AssemblyInfo.cs
+/Users/erikgrove/Desktop/RatedR/obj/Debug/netcoreapp2.2/RatedR.dll
+/Users/erikgrove/Desktop/RatedR/obj/Debug/netcoreapp2.2/RatedR.pdb
